@@ -1,0 +1,14 @@
+操作系统：windows10 专业版 64位
+
+语言：python 2.7.12 64位
+
+依赖包版本：
+
+lightgbm                           2.1.0
+matplotlib                         2.1.2
+numpy                              1.14.0+mkl
+pandas                             0.22.0
+pip                                10.0.0
+scikit-learn                       0.19.1
+scipy                              1.0.0
+xgboost                            0.7
